@@ -1,3 +1,8 @@
+# LIVE DEMO :-  <a href="https://debugprotroute.ccbp.tech/">Debugging Nxt Trendz Protected Route</a>
+### Login Details
+Username: rahul </br>
+Password: rahul@2021
+
 In this project, let's fix the **Nxt Trendz Protected Route** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
